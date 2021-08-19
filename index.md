@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## ./Injured Android : Write-up
 
-You can use the [editor on GitHub](https://github.com/bobalattew/Injured-Android-Write-up/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I came across a task from my company during my internship about a penetration testing on an application name Injured Android. This application is designed to be vulnerable to practice to practice mobile application penetration testing. The app can be installed on user phone or an emulator for safety. The vulnerable app has seventeen challenges to solves such as SSL pinning, API exposure, sensitive data exposure and stored XSS. 
 
 ### Markdown
 
